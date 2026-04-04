@@ -12,3 +12,9 @@ model Tarefa {
   nome  String
   feita Boolean @default(false)
 }
+
+model Usuario {
+  id    Int    @id @default(autoincrement())
+  email String @unique
+  senha String
+}
