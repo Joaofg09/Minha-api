@@ -1,1 +1,1 @@
-web: npx prisma migrate deploy && node index.js 2>&1
+web: sh start.sh
