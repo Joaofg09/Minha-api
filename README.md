@@ -50,3 +50,8 @@ A API estará disponível em http://localhost:3000
 ## API em produção
 
 https://minha-api-production-afe9.up.railway.app
+
+
+## Front-end
+
+https://tarefas-app.vercel.app
