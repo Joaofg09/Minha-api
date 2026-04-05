@@ -44,3 +44,9 @@ A API estará disponível em http://localhost:3000
 | POST   | /tarefas      | Cria uma nova tarefa   |
 | PUT    | /tarefas/:id  | Atualiza uma tarefa    |
 | DELETE | /tarefas/:id  | Remove uma tarefa      |
+
+
+
+## API em produção
+
+https://minha-api-production-afe9.up.railway.app
