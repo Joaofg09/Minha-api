@@ -1,1 +1,1 @@
-web: npx prisma migrate deploy && node index.js
+web: npx prisma migrate deploy && node index.js 2>&1
